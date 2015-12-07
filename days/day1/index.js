@@ -2,7 +2,6 @@
 import expect from 'expect';
 import {readFileSync} from 'fs';
 
-
 function notQuiteLisp(input) {
     return input.split('').reduce((p, c) => {
         switch (c) {
