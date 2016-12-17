@@ -4,6 +4,7 @@
   "author": "Joris Blaak",
   "dependencies": {
     "expect.js": "^0.3.1",
-    "fs-promise": "^1.0.0"
+    "fs-promise": "^1.0.0",
+    "md5": "^2.2.1"
   }
 }
