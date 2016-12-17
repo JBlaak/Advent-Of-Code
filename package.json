@@ -3,6 +3,7 @@
   "description": "The days of adventofcode.com in JS",
   "author": "Joris Blaak",
   "dependencies": {
-    "expect": "^1.13.0"
+    "expect.js": "^0.3.1",
+    "fs-promise": "^1.0.0"
   }
 }
